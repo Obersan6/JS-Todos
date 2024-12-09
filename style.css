@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(213, 152, 232);
+}
+
+/* Class that will use to cross out the todo selected by a click on the checkbox          */
+.crossed-todo {
+    text-decoration: line-through;
+}
+
+
